@@ -20,10 +20,10 @@ const recommendation = () => {
     // })
 
     if(nameofbook){
-      
-      router.push(
-        `/dash/${nameofbook}`
-        )
+      console.log("hello")
+      #router.push(
+        #`/dash/${nameofbook}`
+        #)
 
     }
   }
